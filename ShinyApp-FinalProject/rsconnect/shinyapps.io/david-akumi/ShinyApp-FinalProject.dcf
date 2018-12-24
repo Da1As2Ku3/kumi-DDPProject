@@ -1,0 +1,12 @@
+name: ShinyApp-FinalProject
+title: ShinyApp-FinalProject
+username:
+account: david-akumi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 622680
+bundleId: 1781388
+url: https://david-akumi.shinyapps.io/ShinyApp-FinalProject/
+when: 1545634469.07767
+asMultiple: FALSE
+asStatic: FALSE
